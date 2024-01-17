@@ -5,11 +5,23 @@
   > @Kyubey74
 - 👀 <strong> **I’m interested in** </strong>
 
-  > Machine learning, AI development, Learning foreign languages, Videogames & Anime
-- 🌱 <strong> **I’m currently learning** </strong> ...
-- 💞️ <strong> **I’m looking to collaborate** </strong> On Ai and web-oriented projetcs to amplify my knowledge 
+  > Machine learning
+  > AI development
+  > Learning foreign languages
+  > Videogames
+  > Anime
+- 🌱 **I’m currently learning**
+
+
+- 💞️ **I’m looking to collaborate on** 
+
+  > Ai and web-oriented projetcs to amplify my knowledge
 - 📫 <strong> **How to reach me** </strong>
-- 😄 <strong> **Pronouns:** </strong> He/Him
+
+  > 
+- 😄 **Pronouns:**
+
+  > He/Him
 - ⚡  **Fun fact:** 
 
 <!---
