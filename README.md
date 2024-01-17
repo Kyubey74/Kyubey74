@@ -1,6 +1,4 @@
-<center> 
-  <h1> About Me </h1> 
-</center>
+# About Me 
 
 - 👋 **Hi, I’m**
 
