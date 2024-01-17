@@ -1,6 +1,5 @@
-<center>
-# About Me
-</center>
+<center> # About Me </center>
+
 - 👋 **Hi, I’m**
 
   > @Kyubey74
