@@ -1,4 +1,4 @@
-#                   About Me
+# About Me text-align: center;
 
 - 👋 **Hi, I’m**
 
