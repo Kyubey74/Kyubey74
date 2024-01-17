@@ -2,7 +2,7 @@
 
 - 👋 <strong> **Hi, I’m @Kyubey74** </strong>
 - 👀 <strong> **I’m interested in** </strong>
--  > Machine learning, AI development, Learning foreign languages, Videogames & Anime
+  > Machine learning, AI development, Learning foreign languages, Videogames & Anime
 - 🌱 <strong> **I’m currently learning** </strong> ...
 - 💞️ <strong> **I’m looking to collaborate** </strong> On Ai and web-oriented projetcs to amplify my knowledge 
 - 📫 <strong> **How to reach me** </strong>
