@@ -1,5 +1,6 @@
-# About Me text-align: center;
-
+<center>
+# About Me
+</center>
 - 👋 **Hi, I’m**
 
   > @Kyubey74
