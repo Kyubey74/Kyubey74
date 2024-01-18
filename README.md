@@ -4,7 +4,9 @@
   <img src="https://media.giphy.com/media/ZPChMPbktXlEgqn6UA/giphy.gif" width="600"/>
 </div>
 
+<div id="badges">
 <img src="https://komarev.com/ghpvc/?username=Kyubey74e&style=flat-square&color=blue" alt=""/>
+</div>
 
 - 👋 **Hi, I’m**
 
