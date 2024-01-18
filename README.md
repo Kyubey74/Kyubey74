@@ -4,6 +4,8 @@
   <img src="https://media.giphy.com/media/ZPChMPbktXlEgqn6UA/giphy.gif" width="600"/>
 </div>
 
+<img src="https://komarev.com/ghpvc/?username=Kyubey74e&style=flat-square&color=blue" alt=""/>
+
 - 👋 **Hi, I’m**
 
   > @Kyubey74
