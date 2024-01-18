@@ -22,18 +22,12 @@
   > Videogames
   >
   > Anime
-- 🌱 **I’m currently learning**
-
-  > 
 - 💞️ **I’m looking to collaborate on** 
 
   > AI and web-oriented projetcs to amplify my knowledge
 - 😄 **Pronouns:**
 
   > He/Him
-- ⚡  **Fun fact:** 
-
----
 
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kyubey74&theme=dark&hide_border=true)](https://git.io/streak-stats)
