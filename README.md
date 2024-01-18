@@ -24,13 +24,10 @@
   > Anime
 - 🌱 **I’m currently learning**
 
-
+  > 
 - 💞️ **I’m looking to collaborate on** 
 
-  > Ai and web-oriented projetcs to amplify my knowledge
-- 📫 <strong> **How to reach me** </strong>
-
-  > 
+  > AI and web-oriented projetcs to amplify my knowledge
 - 😄 **Pronouns:**
 
   > He/Him
